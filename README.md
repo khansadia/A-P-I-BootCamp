@@ -25,29 +25,5 @@ https://majazocom.github.io/Data/attendees.json
 Render only the ones that are attending to the DOM.
 attending: true
 Render only the ones that are attending and have some allergy to the DOM.
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-JavaScript
-77.7%
- 
-HTML
-15.9%
- 
-CSS
-6.4%
-Footer
+
+
